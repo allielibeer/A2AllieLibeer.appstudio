@@ -1,4 +1,4 @@
-/*
+
 //this code declares variables for later input
 let firstName = ""
 let state = ""
@@ -31,5 +31,3 @@ else {
   console.log('Invalid input.');
 }
 
-
-*/
